@@ -9,7 +9,7 @@
   },
   "text": {
     "more": "",
-    "intro": "Australian far-right organisations and individuals present in Time State 1 (TS1). TS1 encompasses organisations and individuals pre-World War II and those present directly after, between 1945-1955. Nodes in the network represent Australian far-right organisations and individuals. Australian far-right organisations are labelled, however, Australian far-right individuals are anonymised, and are represented by numbers. Nodes in the network are coloured by their assigned ideology. Nodes in the network are sized by degree centrality. Please use the search bar below to directly search for an Australian far-right organisation by name. Please feel free to explore the network by directly interacting with it. When you select a node in the network please refer to the pop-up panel on the right-hand side for details about that node, including its organisational form, ideology, centrality scores, modularity and all connected nodes.",
+    "intro": "Australian far-right organisations and individuals present in Time State 1 (TS1). TS1 encompasses organisations and individuals pre-World War II and those present directly after, between 1945-1955. Please feel free to explore the network by directly interacting with it. \nYou can use the search bar below to search for nodes by name. When you select a node in the network please refer to the pop-up panel on the right-hand side for details about that node, including its organisational form, ideology, centrality scores, modularity and all connected nodes.",
     "title": "Australian far-right network (Time State 1)"
   },
   "legend": {
